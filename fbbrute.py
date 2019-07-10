@@ -10,10 +10,10 @@ API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
 
 __banner__ = """
        +=======================================+
-       |..........Facebook Cracker v 1.........|
+       |...Facebook Cracker v 1 by AMPgaming...|
        +---------------------------------------+
-       |#Author: DedSecTL <dtlily>             |
-       |#Contact: Telegram @dtlily             |
+       |#Author: DedSecTL <AMPgaming>          |
+       |#Contact: Telegram @AMPgaming          |
        |#Date: Fri Feb 8 10:15:49 2019         |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
@@ -22,7 +22,7 @@ __banner__ = """
        |#I take no responsibilities for the    |
        |  use of this program !                |
        +=======================================+
-       |..........Facebook Cracker v 1.........|
+       |...Facebook Cracker v 1 by AMPgaming...|
        +---------------------------------------+
 """
 
