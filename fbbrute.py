@@ -12,8 +12,8 @@ __banner__ = """
        +=======================================+
        |..........Facebook Cracker v 1.........|
        +---------------------------------------+
-       |#Author: AMPgaming            |
-       |#Contact: Telegram @dtlily             |
+       |#Author: AMPgaming                     |
+       |#Contact: https://t.me/AMPgaming       |
        |#Date: Fri Feb 8 10:15:49 2019         |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
