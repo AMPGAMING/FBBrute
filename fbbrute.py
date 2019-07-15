@@ -6,13 +6,13 @@ import sys
 import urllib
 import hashlib
 
-API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
+API_SECRET = "557b2519b64d53265dd2aaf16a59600a"
 
 __banner__ = """
        +=======================================+
        |..........Facebook Cracker v 1.........|
        +---------------------------------------+
-       |#Author: DedSecTL <dtlily>             |
+       |#Author: AMPgaming            |
        |#Contact: Telegram @dtlily             |
        |#Date: Fri Feb 8 10:15:49 2019         |
        |#This tool is made for pentesting.     |
